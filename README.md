@@ -50,9 +50,10 @@ Thanks for learning!
 ```
 
 ## File Structure
+```
 📂 Java Fact Generator
  └── IS147projectcode.java   # Main program file with logic and class definition
-
+```
 ## Author
 **Brandon Choi**  
 [GitHub Profile](https://github.com/b21-c)
