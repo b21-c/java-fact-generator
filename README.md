@@ -53,7 +53,7 @@ Thanks for learning!
 ## File Structure
 
 ```
-📂 Java Fact Generator
+📂 java-fact-generator
  └── IS147projectcode.java   # Main program file with logic and class definition
 ```
 
