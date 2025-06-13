@@ -47,7 +47,7 @@ public class IS147projectcode {
             System.out.println("The length characters of this quote is: " + english.calculateLength());   
          }
          else if (desiredSubject.equalsIgnoreCase("Math")) {
-            math.givenFact = "While it seems unlikely that two people in a small group would have the same birthday, the probability actually increases surprisingly quickly." + 
+            math.givenFact = "While it seems unlikely that two people in a small group would have the same birthday, the probability actually increases surprisingly quickly. " + 
             "In a room of 23 people, there's a 50% chance that two people share a birthday.";
             System.out.println(math.givenFact);
             System.out.println("The length characters of this quote is: " + math.calculateLength());            
