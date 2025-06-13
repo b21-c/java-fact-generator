@@ -9,7 +9,7 @@ A beginner-friendly Java console application that gives users random educational
 - Calculates and displays the length of each fact using `.length()`
 
 ## Technologies Used
-- Java
+- Java 14
 - jGRASP (IDE)
 
 ## Key Concepts Practiced
