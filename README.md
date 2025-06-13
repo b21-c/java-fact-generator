@@ -28,7 +28,7 @@ A beginner-friendly Java console application that gives users random educational
 4. Follow the prompts in the console
 
 ## Sample Output
-Hello! Before we start, let's test your luck.
+'''Hello! Before we start, let's test your luck.
 Pick a number between 1 and 3: 3
 It's your lucky day! Let's continue with the program.
 Enter your First Name: Brandon
@@ -45,7 +45,7 @@ There is History, English, and Math available: Math
 While it seems unlikely that two people in a small group would have the same birthday, the probability actually increases surprisingly quickly.In a room of 23 people, there's a 50% chance that two people share a birthday.
 The length characters of this quote is: 221
 Would you like to learn about another subject? (Enter Yes or No): No
-Thanks for learning!
+Thanks for learning!'''
 
 ## File Structure
 📂 Java Fact Generator
